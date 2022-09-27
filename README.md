@@ -80,11 +80,7 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="70" height="70"/>
         </a>
       </td>
-	         <td align="center">
-        <a href="https://angular.io/">
-          <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="AngularJS" width="70" height="70"/>
-        </a>
-      </td>
+
       
     </tr>
     <tr>
