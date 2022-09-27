@@ -28,12 +28,7 @@
         <a href="https://www.graalvm.org/">
           <img src="https://www.graalvm.org/resources/img/graalvm.png" alt="Spring" width="70" height="70"/>
         </a>
-      </td>
-			<td align="center">
-        <a href="https://quarkus.io/">
-          <img src="https://images.squarespace-cdn.com/content/5c9b21c1e666692d1b33460b/1557409975418-CRFDZ3MOM347RNLL2C33/quarkus-logo-large.jpg?content-type=image%2Fjpeg" alt="Spring" width="70" height="70"/>
-        </a>
-      </td>
+      </td>	
       <td align="center">
         <a href="https://www.oracle.com/uk/database/technologies/">
           <img src="https://pbs.twimg.com/profile_images/1448975437246255105/cc989Pmx_400x400.jpg" alt="Oracle Database" width="70" height="70"/>
@@ -41,11 +36,6 @@
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <a href="https://aws.amazon.com/">
-          <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws" width="70" height="70"/>
-        </a>
-      </td>
       <td align="center">
         <a href="">
           <a href="https://www.mysql.com/">
@@ -64,11 +54,6 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://www.python.org/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="Python" width="70" height="70"/> 
-        </a>
-      </td>
-      <td align="center">
         <a href="https://angular.io/">
           <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="AngularJS" width="70" height="70"/>
         </a>
@@ -78,11 +63,6 @@
       <td align="center">
         <a href="https://github.com/">
           <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg" alt="git" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.scala-lang.org/">
-          <img src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" alt="Scala" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
@@ -108,16 +88,6 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://www.docker.com/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="docker" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://kubernetes.io/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
         <a href="https://www.heroku.com/">
           <img src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/v1491420676/cenlvst0fgs8ejx12n8u.png" alt="Heroku" width="70" height="70"/>
         </a>
@@ -127,14 +97,14 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactJS" width="70" height="70"/>
         </a>
       </td>
-      <td align="center">
-        <a href="https://azure.microsoft.com/en-us/">
-          <img src="https://mspoweruser.com/wp-content/uploads/2017/09/azure-1.png" alt="MS Azure" width="70" height="70"/>
+	          <td align="center">
+        <a href="https://vuejs.org/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/768px-Vue.js_Logo_2.svg.png" alt="VueJS" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
-        <a href="https://www.jenkins.io/">
-          <img src="https://miro.medium.com/max/1600/1*LOFbTP2SxXcFpM_qTsUSuw.png" alt="Jenkins" width="70" height="70"/>
+        <a href="https://azure.microsoft.com/en-us/">
+          <img src="https://mspoweruser.com/wp-content/uploads/2017/09/azure-1.png" alt="MS Azure" width="70" height="70"/>
         </a>
       </td>
     </tr>
