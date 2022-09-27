@@ -29,6 +29,11 @@
           <img src="https://www.graalvm.org/resources/img/graalvm.png" alt="Spring" width="70" height="70"/>
         </a>
       </td>	
+	    <td align="center">
+        <a href="https://cassandra.apache.org/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png" alt="Oracle Database" width="70" height="70"/>
+        </a>
+      </td>
       <td align="center">
         <a href="https://www.oracle.com/uk/database/technologies/">
           <img src="https://pbs.twimg.com/profile_images/1448975437246255105/cc989Pmx_400x400.jpg" alt="Oracle Database" width="70" height="70"/>
@@ -53,11 +58,6 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="70" height="70"/>
         </a>
       </td>
-      <td align="center">
-        <a href="https://angular.io/">
-          <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="AngularJS" width="70" height="70"/>
-        </a>
-      </td>
     </tr>
     <tr>
       <td align="center">
@@ -80,11 +80,12 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="70" height="70"/>
         </a>
       </td>
-      <td align="center">
-        <a href="https://cassandra.apache.org/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png" alt="Oracle Database" width="70" height="70"/>
+	         <td align="center">
+        <a href="https://angular.io/">
+          <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="AngularJS" width="70" height="70"/>
         </a>
       </td>
+      
     </tr>
     <tr>
       <td align="center">
