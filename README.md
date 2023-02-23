@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://malekabbes.com](https://malekabbes.com)
 
-- 📝 I regularly write articles on [https://malekabbes.hashnode.dev](https://malekabbes.hashnode.dev)
+- 📝 I regularly write articles on [https://malekabbes.hashnode.dev](https://malekabbes.hashnode.dev) also started writing on dev.to [https://dev.to/malekabbes/](https://dev.to/malekabbes/))
 
 - 💬 Ask me about **Vuejs , React , angular , ExpressJS**
 
@@ -41,7 +41,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/malekabbes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="malekabbes" /></a></p><br><br>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malekabbes&show_icons=true&locale=en&layout=compact" alt="malekabbes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malekabbes&show_icons=true&locale=en" alt="malekabbes" /></p>
