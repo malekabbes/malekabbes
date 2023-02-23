@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I code while watching my tvshow :D**
 
-### Blogs posts
+### Blogs posts (soon)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
